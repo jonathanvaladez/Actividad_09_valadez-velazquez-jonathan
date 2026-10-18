@@ -1,0 +1,59 @@
+.fondo-rosa {
+    background-color: #f1cdd3;
+}
+.fondo-topbar {
+    background-color: #d88a96; 
+}
+
+.fondo-rosa-claro {
+    background-color: #fae8eb;
+}
+
+.boton-rosa {
+    background-color: #d88a96 !important;
+    border-color: #d88a96 !important;
+    border-radius: 0 !important; 
+    padding: 10px 30px;
+    font-weight: bold;
+    color: white !important;
+}
+
+.boton-rosa:hover {
+    background-color: #c0737f !important;
+}
+
+.fondo-hero {
+    background-image: url('../images/fondo02.jpeg');
+    background-size: cover;
+    background-position: center center;
+    height: 72vh; 
+}
+
+.texto-elegante {
+    font-family: 'Playfair Display', serif; 
+    font-style: italic;
+    color: #fff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); 
+}
+
+.tarjeta-pastel {
+    background-color: #fae8eb;
+}
+
+.tarjeta-pastel img {
+    border-radius: 50%;
+    width: 80%;
+    aspect-ratio: 1 / 1;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.imagen-carrusel-galeria {
+    height: 350px;
+    object-fit: cover;
+}
+
+#logoTexto {
+    font-family: "Georgia", serif;
+    font-size: 2rem;
+}
